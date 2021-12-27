@@ -1,0 +1,3 @@
+displayName = Ayanami Rei Companion
+author = kexfff
+version = 0.1
